@@ -4,7 +4,7 @@ Pull Bitcoin price from Coinbase to a Google Sheet
 ## How to use this script
 
 1. Open the Google Sheet
-2. Go to "Tools" > "Script Manager" > "New" > "Blank Project"
+2. Go to "Tools" > "Script editor..." > "New" > "Blank Project"
 3. Replace function with code here
 4. Change variables to the cell numbers where you want the price to show
 5. Go to "File" > "Rename" > "Enter new project name"
